@@ -13,6 +13,7 @@ Dashboard Components
 1. Key Performance Indicators (KPIs)
 
 The dashboard highlights the following core financial KPIs at the top level:
+
 🔹Total Revenue: Represents the overall revenue generated during the selected period
 
 🔹Gross Margin Percentage: Indicates operational efficiency by comparing gross profit against revenue
